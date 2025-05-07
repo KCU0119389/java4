@@ -1,4 +1,4 @@
-package java4;
+
 public class fib{
     public static void main(String[] args){
         int n=10;
